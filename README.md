@@ -1,1 +1,1 @@
-# SQL---How-Can-I-Die-Better
+# SQL---SELECT, SUM, WHERE, HAVING, & JOIN
